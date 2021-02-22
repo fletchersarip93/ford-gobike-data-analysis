@@ -1,8 +1,10 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Ford GoBike Data Analysis
+## by Fletcher Sarip
 
 
 ## Dataset
+
+The dataset contains the bike usage of Ford GoBike on February 2019.
 
 > Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
 
