@@ -24,4 +24,6 @@ Also, on daily basis, there are peak demand hours at 08:00 and 17:00. The rent d
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+For the presentation, I focus on presenting the distribution of demands and rent durations with respect to the user demography, location, and time. I will represent the demand level with the data count. As for location and time, I used the start location and start time, with the reason that it is the start location and time that influences bike rent demand.
+
+In the presentation, I started with presenting the distribution of rent durations. Then I proceeded with presenting the clustered regions of the bike stations, where the bike stations can be clustered into 4 distinct regions. Afterward, I proceed with presenting the distribution of demand levels and rent durations with respect to user demography, location and time, both in bivariate and multivariate manners. I've made sure to present the plots with as high data-ink ratio as possible.
